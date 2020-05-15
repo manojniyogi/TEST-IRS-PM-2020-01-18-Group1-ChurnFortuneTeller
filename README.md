@@ -14,6 +14,12 @@ Churn rates depict the rate at which customer base shrink over a measured period
 
 Achieving right balance between customer acquisition and retention is not easy task. Statistics suggests that acquiring new customer is 5 times costlier than retaining the customer. Due to this, many companies are spending hugely to identify those customers who are likely to churn and taking the necessary steps to retain them and reduce the churn rate. Therefore, this project's aim to finding vital factors that increase customer churn is important to take necessary actions to reduce this churn.
 
+Our team aims to create an efficient and accurate algorithm to identify the most prominent reasons for customer churn. The algorithm considers many factors such as customer's demographic, subscribed services and usage details. The prediction model assists the Telecom company to predict their customers who are more likely stop using their services. The prediction model developed in this work uses machine learning technique.
+
+Building a machine learning model using the past customer churn data and their characteristics & behavior. The customer churn prediction model which assists telecom operators to predict customers who are most likely subject to churn based on various attributes related to demographics of customer, facilities offered, customer tenure and their charges. This machine learning project embodied in advanced analytics that leverage the existing customer's data to reveal hidden patterns and new insights that will enable the business users to take better decisions.
+
+The supervised tree-based machine learning model will predict the response for existing customers. Upon completion of data analysis and feature engineering using if-else rules, we build tree-based machine learning methods and algorithms for predicting the customer churn. We have analyzed and implemented the Random Forest and Extreme Gradient Boost (XGBoost) tree-based models to build the predictive model. 
+
 ---
 
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
