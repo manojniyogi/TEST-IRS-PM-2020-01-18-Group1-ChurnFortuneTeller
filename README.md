@@ -8,8 +8,10 @@
 ---
 
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
-The Telecommunication industry mostly depends on subscription-based services. The profitability of the Organization mainly depends on its market share or its customer base. The customer acquisition and retention are two important factors that will directly impact the organization’s profitability [2]. 
+The Telecommunication industry mostly depends on subscription-based services. The profitability of the Organization mainly depends on its market share or its customer base. The customer acquisition and retention are two important factors that will directly impact the organization’s profitability
+
 Churn rates depict the rate at which customer base shrink over a measured period and are often used to indicate the strength of a company’s customer service division and its overall growth prospects. Lower churn rates suggest a company is in a stronger and competitive state. Customer loss impacts carriers significantly as they often make a significant investment to acquire customers. The ability to identify customers who will abandon services, while there is still time to do something about it, represents a huge additional potential revenue source for every online business. Furthermore, it is always more difficult and expensive to acquire a new customer than it is to retain a current paying customer.
+
 Achieving right balance between customer acquisition and retention is not easy task. Statistics suggests that acquiring new customer is 5 times costlier than retaining the customer. Due to this, many companies are spending hugely to identify those customers who are likely to churn and taking the necessary steps to retain them and reduce the churn rate. Therefore, this project's aim to finding vital factors that increase customer churn is important to take necessary actions to reduce this churn.
 
 ---
